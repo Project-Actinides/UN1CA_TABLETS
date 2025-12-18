@@ -15,7 +15,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-# SEC Floating Feature configuration file for Galaxy Tab S7+ (WIFI|LTE|5G) (gts7xlwifi|gts7xl)
+# SEC Floating Feature configuration file for Galaxy Tab S7FE (WIFI|LTE|5G) (gts7xlwifi|gts7xl)
 
 # Disable unsupported features
 SEC_FLOATING_FEATURE_AUDIO_CONFIG_MIC_POSITION=
@@ -92,7 +92,7 @@ SEC_FLOATING_FEATURE_LCD_SUPPORT_BLUE_FILTER_ADAPTIVE_MODE=0
 
 # Frameworks
 SEC_FLOATING_FEATURE_FRAMEWORK_SUPPORT_TSP_STATE_MANAGER=deadzone_v2,change_ratio
-SEC_FLOATING_FEATURE_SYSTEM_CONFIG_SIOP_POLICY_FILENAME=siop_gts7xlwifi_sm8250
+SEC_FLOATING_FEATURE_SYSTEM_CONFIG_SIOP_POLICY_FILENAME=siop_gts7fewifi_sm7325
 
 # Samsung Gallery app
 SEC_FLOATING_FEATURE_GALLERY_CONFIG_AI_EXPANSION=AI_Timelapse
